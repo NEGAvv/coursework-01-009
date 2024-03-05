@@ -66,8 +66,24 @@ Image: https://lastfm.freetls.fastly.net/i/u/770x0/2f43cbe358fc4c88b559f72c02077
 Copyright Owner: Simple Minds
 Web Page(s): performers.html
 
-Image: 
-Copyright Owner: 
+Image: https://lastfm.freetls.fastly.net/i/u/770x0/c8167c9141da52e6e68f682a405fa033.jpg#c8167c9141da52e6e68f682a405fa033
+Copyright Owner: Nothing but Thieves
+Web Page(s): performers.html
+
+Image: https://lastfm.freetls.fastly.net/i/u/770x0/141f490d5819aacd3fe6ea9644147570.jpg#141f490d5819aacd3fe6ea9644147570
+Copyright Owner:Zara Larsson
+Web Page(s): performers.html
+
+Image: https://lastfm.freetls.fastly.net/i/u/770x0/cfe504804d1600ce62fc948083572b6f.jpg#cfe504804d1600ce62fc948083572b6f
+Copyright Owner: McFly
+Web Page(s): performers.html
+
+Image: https://lastfm.freetls.fastly.net/i/u/770x0/7ef59ee9f395317c1e6faec4babadcd2.jpg#7ef59ee9f395317c1e6faec4babadcd2
+Copyright Owner: Picture This
+Web Page(s): performers.html
+
+Image: https://lastfm.freetls.fastly.net/i/u/770x0/fa8748f8865b1f16d28b1556ecba56bf.jpg#fa8748f8865b1f16d28b1556ecba56bf
+Copyright Owner:  Uli Weber
 Web Page(s): performers.html
 
 Image: 
@@ -78,10 +94,3 @@ Image:
 Copyright Owner:
 Web Page(s): 
 
-Image: 
-Copyright Owner:
-Web Page(s): 
-
-Image: 
-Copyright Owner: 
-Web Page(s): 

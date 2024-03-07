@@ -86,6 +86,51 @@ Image: https://lastfm.freetls.fastly.net/i/u/770x0/fa8748f8865b1f16d28b1556ecba5
 Copyright Owner:  Uli Weber
 Web Page(s): performers.html
 
+Image: https://isleofwightfestival.s3.amazonaws.com/assets/images/sponsors/absolute_radio_logo.png
+Copyright Owner: ABSOLUTE RADIO
+Web Page(s): index.html
+
+Image: https://isleofwightfestival.s3.amazonaws.com/assets/images/gallery/Barclaycard_Logo_Cyan_RGB_Web.png
+Copyright Owner: BARCLAYCARD
+Web Page(s): index.html
+
+Image: https://isleofwightfestival.s3.amazonaws.com/assets/images/sponsors/Three_Logo_RGB_Black-01.png
+Copyright Owner: THREE
+Web Page(s): index.html
+
+Image: https://isleofwightfestival.s3.amazonaws.com/assets/images/sponsors/LogoBrand-green-_Web.png
+Copyright Owner: NOHRLUND
+Web Page(s): index.html
+
+Image: https://isleofwightfestival.s3.amazonaws.com/assets/images/sponsors/co-op_logo.png
+Copyright Owner: CO-OP
+Web Page(s): index.html
+
+Image: https://isleofwightfestival.s3.amazonaws.com/assets/images/gallery/PEP_Logo_Globe_FullColor_RGB-PartnerPage.png
+Copyright Owner: PEPSI MAX
+Web Page(s): index.html
+
+Image: https://isleofwightfestival.s3.amazonaws.com/assets/images/sponsors/RedBull-Transparent-1.png
+Copyright Owner: RED BULL
+Web Page(s): index.html
+
+Image: https://isleofwightfestival.s3.amazonaws.com/assets/images/sponsors/NS-Logo-Vertical-full-colour-partner-page.png
+Copyright Owner: NORDIC SPIRIT
+Web Page(s): index.html
+
+
+Image: https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Copyright Owner: Wendy Wei
+Web Page(s): future_events.html
+
+Image:  https://images.pexels.com/photos/1540406/pexels-photo-1540406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+Copyright Owner: Wendy Wei
+Web Page(s): future_events.html
+
+Image: 
+Copyright Owner:
+Web Page(s): 
+
 Image: 
 Copyright Owner:
 Web Page(s): 
@@ -94,3 +139,6 @@ Image:
 Copyright Owner:
 Web Page(s): 
 
+Image: 
+Copyright Owner:
+Web Page(s): 

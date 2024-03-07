@@ -28,11 +28,11 @@ h3 {
 }
 
 h2 {
-  font-size: 26px;
+  font-size: 30px;
   font-weight: 500;
 }
 h3 {
-  font-size: 24px;
+  font-size: 26px;
   font-weight: 500;
 }
 
@@ -149,7 +149,7 @@ section {
 .btn {
   display: flex;
   justify-content: center;
-  flex-direction: column;
+  align-items: center;
   width: 20%;
   background-color: #4caf50;
   border: none;
@@ -157,7 +157,6 @@ section {
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
   font-size: 26px;
   font-weight: 400;
   margin-top: 20px;
@@ -171,6 +170,7 @@ section {
 .about-image {
   max-width: 45%;
 }
+
 .about-image img {
   max-width: 100%;
   height: auto;
@@ -193,7 +193,11 @@ section {
 
 .about-text {
   flex: 1;
-  margin: 0 10px;
+  margin: 0 10px 5px 15px;
+}
+
+.about-text p {
+  margin: 10px 0;
 }
 
 .venue h3,
@@ -239,4 +243,130 @@ p {
   flex-wrap: wrap;
   justify-content: center;
   align-self: center;
+}
+
+.partner-logos-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.partner-logo {
+  margin-right: 20px;
+  padding: 10px;
+  text-align: center;
+  width: 300px;
+  height: 100px;
+  overflow: hidden;
+}
+
+.partner-logo img {
+  max-width: 100%;
+  max-height: 100%;
+  margin-bottom: 10px;
+  transition: all 0.2s ease-in-out;
+  object-fit: cover;
+  object-position: center;
+}
+
+.partner-logo img:hover {
+  transform: scale(1.1, 1.1);
+}
+
+.center-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.center-div .btn {
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  p {
+    font-size: 22px;
+  }
+
+  h1 {
+    font-size: 60px;
+  }
+
+  h2 {
+    font-size: 64px;
+  }
+
+  h3 {
+    font-size: 24px;
+  }
+
+  .content {
+    width: 90%;
+  }
+
+  .about-image {
+    max-width: 100%;
+  }
+
+  .about-image img {
+    max-width: 100%;
+  }
+
+  .performer img {
+    width: 150px;
+    height: 150px;
+  }
+
+  .about-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 0;
+    background-color: #979797;
+  }
+
+  .venue {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .venue .btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    padding: 15px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 26px;
+    font-weight: 400;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+  }
+
+  .center-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
+  }
+
+  .partner-logo img {
+    max-width: 100%;
+    max-height: 100%;
+    margin-bottom: 10px;
+    transition: all 0.2s ease-in-out;
+    object-fit: cover;
+    object-position: center;
+  }
 }
